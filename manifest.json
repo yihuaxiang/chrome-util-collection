@@ -19,5 +19,12 @@
    },
    "background": {
       "scripts": ["js/background.js"]
-   }
+   },
+   "content_scripts": [{
+      "matches": ["https://www.google.com/*","https://www.google.com.hk/*"],
+      "js": ["./js/multiSearch.js"]
+   },{
+      "matches":["https://weibo.com/nguide/interests","https://www.weibo.com/nguide/interests"],
+      "js":["js/weibo.js"]
+   }]
 }
