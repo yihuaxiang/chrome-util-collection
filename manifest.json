@@ -8,5 +8,10 @@
    "manifest_version": 2,
    "name": "Blank new tab page",
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.2.1"
+   "version": "0.2.1",
+   "browser_action": {
+      "default_icon": "images/logo.png",
+      "default_title": "工具集合",
+      "default_popup": "popup.html"
+   }
 }
