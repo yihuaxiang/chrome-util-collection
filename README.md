@@ -1,2 +1,6 @@
-# Blank-new-tab-page
-Blank new tab page
+# chrome 工具结合
+整理chrome常用功能集合
+
+> * 多列搜索，在谷歌中搜多关键词时自动在右侧打开百度搜索相同内容
+> * 微博推荐页屏蔽
+> * 京东二维码登陆屏蔽
