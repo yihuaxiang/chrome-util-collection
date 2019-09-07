@@ -2,11 +2,11 @@
    "chrome_url_overrides": {
       "newtab": "blank.html"
    },
-   "description": "Override the new tab page with a blank one",
+   "description": "chrome utils collection",
    "incognito": "split",
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp8XfbxJ2SuGwC5gx2xpgEXo7JEb48F3ySpgH5BwaoIcSZ3kg8NjG9oxZad9Bs+c5+chNvNIOtVXbQ1qHf7wEFuyVWzhMA5CVzqVqhdW9Jpcegj7FrU1LzQxMWYJxQLUNrVG8cGVVeKdG4WGqJe4lIF/f0Iv+awc/RzHt47lfalkG3KZZjqdB86Zyj984X91W8cteHTrqBBdMGFw51DfbsLOkfS0x6P+KbfcMytsb+NhIbFTCvwKFeQkbBehU/I08voadQNm3EAWxstnSiwoxdcDhVdL3DxzV49+rllZb2cwb/OyywEggB/ce0FfyFKhcksKLWAz6iPwubsi65mTUpQIDAQAB",
    "manifest_version": 2,
-   "name": "Blank new tab page",
+   "name": "ChromeUtilsCollection",
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "0.2.2",
    "browser_action": {
